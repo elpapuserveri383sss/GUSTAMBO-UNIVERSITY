@@ -15195,3 +15195,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [17May2025 22:42:57.784] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
 [17May2025 22:43:15.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17May2025 22:43:15.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 22:43:55.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[17May2025 22:43:56.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[17May2025 22:43:56.056] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Mtaep to connected: {disabled=false, disconnected=false, uuid=c42aba1a-dbbb-3485-bd79-6cc60ec3d64e, name=Mtaep, group=null}
+[17May2025 22:43:56.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e) successfully connected to voice chat
+[17May2025 22:43:57.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
+[17May2025 22:43:57.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[17May2025 22:43:57.060] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mtaep
+[17May2025 22:43:57.060] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[17May2025 22:43:57.169] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e does not have a secret
+[17May2025 22:48:15.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 22:48:15.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 22:53:15.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 22:53:15.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

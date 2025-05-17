@@ -1711,3 +1711,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [17May2025 22:42:57.235] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
 [17May2025 22:42:57.784] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
 [17May2025 22:42:57.784] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[17May2025 22:43:55.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[17May2025 22:43:56.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[17May2025 22:43:56.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e) successfully connected to voice chat
+[17May2025 22:43:57.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
+[17May2025 22:43:57.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[17May2025 22:43:57.060] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
