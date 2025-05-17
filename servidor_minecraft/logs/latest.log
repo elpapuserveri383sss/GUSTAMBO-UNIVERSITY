@@ -1532,3 +1532,72 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [17May2025 22:00:39.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
 [17May2025 22:00:40.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
 [17May2025 22:00:40.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:06:31.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[17May2025 22:06:31.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[17May2025 22:06:31.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:06:36.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[17May2025 22:06:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[17May2025 22:06:36.172] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[17May2025 22:07:02.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:59614] logged in with entity id 2254 at (-1830.084382553221, 154.0, 801.2699106867013)
+[17May2025 22:07:02.794] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[17May2025 22:07:02.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[17May2025 22:07:02.840] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[17May2025 22:07:06.738] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[17May2025 22:07:06.738] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:07:25.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:07:27.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:07:27.876] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:07:55.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[17May2025 22:07:55.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[17May2025 22:07:55.289] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:08:11.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[17May2025 22:08:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[17May2025 22:08:11.128] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[17May2025 22:08:32.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:59686] logged in with entity id 2583 at (-1829.7367058966815, 154.0, 799.1999192848673)
+[17May2025 22:08:32.031] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[17May2025 22:08:32.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[17May2025 22:08:32.071] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[17May2025 22:08:36.069] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[17May2025 22:08:36.069] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:08:43.913] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/b24b122c-232e-3dc2-bf48-11421a53c3a2.json: Don't know what jinghui:xj is
+[17May2025 22:08:43.914] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/b24b122c-232e-3dc2-bf48-11421a53c3a2.json: Don't know what jinghui:hongshu is
+[17May2025 22:08:43.915] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/b24b122c-232e-3dc2-bf48-11421a53c3a2.json: Don't know what jinghui:ruyijingubang is
+[17May2025 22:08:43.933] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: jinghui:xuej_1 removed now.
+[17May2025 22:08:43.934] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: jinghui:xuej_1 removed now.
+[17May2025 22:08:43.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattemci[/10.243.17.151:57045] logged in with entity id 2829 at (-1876.0094677402283, 168.0, 956.8480127767485)
+[17May2025 22:08:43.944] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Cattemci
+[17May2025 22:08:43.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci joined the game
+[17May2025 22:08:44.009] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
+[17May2025 22:08:46.217] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:08:47.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:08:47.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:08:48.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cattemci (18)
+[17May2025 22:08:48.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cattemci
+[17May2025 22:09:07.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[17May2025 22:09:08.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[17May2025 22:09:08.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2) successfully connected to voice chat
+[17May2025 22:09:26.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[17May2025 22:09:26.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[17May2025 22:09:26.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[17May2025 22:14:15.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/4586, l='ServerLevel[world]', x=-1822.79, y=147.50, z=754.98] died, message: 'Golem Healer was pricked to death'
+[17May2025 22:14:15.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/4586, l='ServerLevel[world]', x=-1822.79, y=147.50, z=754.98] died: Golem Healer was pricked to death
+[17May2025 22:16:36.495] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[17May2025 22:17:09.037] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[17May2025 22:18:54.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci lost connection: Disconnected
+[17May2025 22:18:54.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci left the game
+[17May2025 22:18:54.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cattemci
+[17May2025 22:21:24.055] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c42aba1a-dbbb-3485-bd79-6cc60ec3d64e.json: Don't know what jinghui:hongshu is
+[17May2025 22:21:24.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:59828] logged in with entity id 8001 at (-107.32145890065983, 156.1212968405392, 243.9672871020552)
+[17May2025 22:21:24.084] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mtaep
+[17May2025 22:21:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[17May2025 22:21:24.107] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[17May2025 22:21:24.295] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[17May2025 22:21:24.295] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[17May2025 22:21:24.551] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[17May2025 22:21:24.771] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[17May2025 22:21:24.779] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id jinghui:hongshu
+[17May2025 22:21:26.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[17May2025 22:21:26.584] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[17May2025 22:22:24.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Disconnected
+[17May2025 22:22:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[17May2025 22:22:24.221] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
