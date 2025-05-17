@@ -1726,3 +1726,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [17May2025 22:56:40.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
 [17May2025 22:56:41.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
 [17May2025 22:56:41.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 23:10:09.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -1.969621266667673,0.0,9.92907946083551
+[17May2025 23:10:28.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 6.241213419771384,1.2491870787446828,-7.939074301249661
+[17May2025 23:19:36.584] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[17May2025 23:19:36.590] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[17May2025 23:19:36.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[17May2025 23:19:45.538] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[17May2025 23:19:53.340] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[17May2025 23:19:53.340] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[17May2025 23:19:53.341] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[17May2025 23:20:21.987] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[17May2025 23:20:21.987] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[17May2025 23:20:21.988] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[17May2025 23:20:59.245] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[17May2025 23:21:01.034] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[17May2025 23:21:02.838] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[17May2025 23:21:04.580] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[17May2025 23:21:06.382] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[17May2025 23:21:20.583] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[17May2025 23:22:02.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Mine? Mine? Mine?]
