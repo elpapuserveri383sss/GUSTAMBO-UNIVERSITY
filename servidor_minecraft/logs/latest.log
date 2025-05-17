@@ -1717,3 +1717,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [17May2025 22:43:57.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
 [17May2025 22:43:57.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
 [17May2025 22:43:57.060] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[17May2025 22:56:13.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:62191] logged in with entity id 12198 at (-1831.2632295356484, 149.0, 795.0819622019252)
+[17May2025 22:56:13.731] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[17May2025 22:56:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[17May2025 22:56:13.758] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[17May2025 22:56:17.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[17May2025 22:56:17.414] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:56:40.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:56:41.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:56:41.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
