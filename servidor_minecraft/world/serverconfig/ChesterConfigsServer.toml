@@ -1,0 +1,20 @@
+
+[Chester]
+	#Amount of xp levels to summon a Chester
+	"XP Level Cost" = 5.0
+	#Control if Chester can sit
+	Sitting = true
+	#Control if Chester can wear armor
+	Armor = true
+	"Chester Limit" = true
+
+[Hutch]
+	#Amount of xp levels to summon a Hutch
+	"XP Level Cost" = 5.0
+	#Control if Hutch can sit
+	Sitting = true
+	#Control if Hutch can wear armor
+	Armor = true
+	#Hutch amount limit
+	"Hutch Limit" = true
+
