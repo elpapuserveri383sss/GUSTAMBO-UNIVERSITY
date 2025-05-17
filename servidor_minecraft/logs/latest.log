@@ -1601,3 +1601,113 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [17May2025 22:22:24.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Disconnected
 [17May2025 22:22:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
 [17May2025 22:22:24.221] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[17May2025 22:23:06.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:59901] logged in with entity id 8284 at (-107.32145890065983, 156.1212968405392, 243.9672871020552)
+[17May2025 22:23:06.881] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mtaep
+[17May2025 22:23:06.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[17May2025 22:23:06.910] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[17May2025 22:23:08.539] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[17May2025 22:23:08.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[17May2025 22:23:56.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep withered away whilst fighting Cockatrice
+[17May2025 22:23:56.402] [Server thread/INFO] [tombstone/]: The player Mtaep has successfully been saved
+[17May2025 22:24:06.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Disconnected
+[17May2025 22:24:06.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[17May2025 22:24:06.958] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[17May2025 22:26:46.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:60649] logged in with entity id 8580 at (-1841.300000011921, 149.0, 793.8407002523755)
+[17May2025 22:26:46.274] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[17May2025 22:26:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[17May2025 22:26:46.309] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[17May2025 22:26:51.115] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[17May2025 22:26:51.116] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:27:08.788] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:27:09.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:27:09.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:27:52.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:60205] logged in with entity id 8936 at (-107.32145890065983, 156.1212968405392, 243.9672871020552)
+[17May2025 22:27:52.543] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mtaep
+[17May2025 22:27:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[17May2025 22:27:52.552] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[17May2025 22:27:54.464] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[17May2025 22:27:54.464] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[17May2025 22:28:02.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[17May2025 22:28:03.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[17May2025 22:28:03.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e) successfully connected to voice chat
+[17May2025 22:28:13.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[17May2025 22:28:13.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[17May2025 22:28:13.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:28:18.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:28:19.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:28:19.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:29:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> nde
+[17May2025 22:29:27.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> elias dame una perla
+[17May2025 22:29:28.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[17May2025 22:29:28.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[17May2025 22:29:28.488] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:29:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> se bugeo mi tumba
+[17May2025 22:29:37.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:29:40.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> y no me marca en ningun lado
+[17May2025 22:29:40.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:29:40.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:30:46.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[17May2025 22:30:46.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[17May2025 22:30:46.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:30:53.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:30:58.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:30:58.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:31:09.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[17May2025 22:31:09.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[17May2025 22:31:09.047] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[17May2025 22:31:16.452] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:31:17.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[17May2025 22:31:17.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[17May2025 22:31:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> matep
+[17May2025 22:32:02.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> estoy lakiente
+[17May2025 22:32:07.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pasa perla loco
+[17May2025 22:32:09.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no
+[17May2025 22:32:13.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> creo que mi tumba desaparecio
+[17May2025 22:32:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> como pio XD
+[17May2025 22:32:23.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no me marca a ningun ladoo
+[17May2025 22:32:27.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no hay waypoint
+[17May2025 22:32:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no hay mensaje
+[17May2025 22:32:41.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> mira bien y si desaparecio te devuelvo las cosas de la tumba asi como estan
+[17May2025 22:32:46.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pero loco
+[17May2025 22:32:52.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> estoy en el spaw
+[17May2025 22:32:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no esta la tumba?
+[17May2025 22:33:03.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> mi casa esta a 2000 metros
+[17May2025 22:33:21.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> pero esta la tumba o noo
+[17May2025 22:33:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> como voy a ver pio
+[17May2025 22:33:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> estoy en el spawn
+[17May2025 22:33:41.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> a 2000 metros de donde mori
+[17May2025 22:33:48.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> yo se que mori cerca de mi casa
+[17May2025 22:33:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> y te sale el coso en el mapa o noo
+[17May2025 22:33:57.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no
+[17May2025 22:34:03.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> te dije que no hay nad
+[17May2025 22:34:17.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> la llave me marca un lugar sin waypoint
+[17May2025 22:34:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> que
+[17May2025 22:34:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> que hiciste
+[17May2025 22:34:31.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> como lo hiciste
+[17May2025 22:34:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ya tenes tus cosas siono
+[17May2025 22:34:38.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> si
+[17May2025 22:34:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ok
+[17May2025 22:36:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> nde elias
+[17May2025 22:36:15.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pq ahora va todo lagueado
+[17May2025 22:36:18.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[17May2025 22:36:18.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[17May2025 22:36:18.925] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[17May2025 22:36:21.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> los dos tenemos ahora mak wifi
+[17May2025 22:38:53.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
+[17May2025 22:38:53.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[17May2025 22:38:53.767] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[17May2025 22:41:09.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:60964] logged in with entity id 11904 at (-431.3339958918516, 188.0, -288.2914328810928)
+[17May2025 22:41:09.627] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mtaep
+[17May2025 22:41:09.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[17May2025 22:41:09.675] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[17May2025 22:41:11.678] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[17May2025 22:41:11.678] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[17May2025 22:42:09.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Timed out
+[17May2025 22:42:09.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[17May2025 22:42:09.761] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mtaep
+[17May2025 22:42:57.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:61058] logged in with entity id 12051 at (-431.3339958918516, 188.0, -288.2914328810928)
+[17May2025 22:42:57.178] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mtaep
+[17May2025 22:42:57.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[17May2025 22:42:57.235] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[17May2025 22:42:57.784] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[17May2025 22:42:57.784] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
