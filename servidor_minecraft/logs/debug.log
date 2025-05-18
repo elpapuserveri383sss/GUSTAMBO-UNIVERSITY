@@ -8955,3 +8955,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 16:27:02.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci left the game
 [18May2025 16:27:02.057] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Cattemci
 [18May2025 16:27:02.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cattemci
+[18May2025 16:30:25.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 16:30:25.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 16:35:25.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 16:35:25.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
