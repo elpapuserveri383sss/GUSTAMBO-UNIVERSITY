@@ -1072,3 +1072,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 00:19:44.165] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [18May2025 00:19:44.184] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [18May2025 00:19:44.189] [Server thread/WARN] [ModernFix/]: Dedicated server took 58.988 seconds to load
+[18May2025 00:37:01.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25ac4e23[id=<null>,name=lucasdepapel,properties={},legacy=false] (/10.243.19.25:62142) lost connection: Disconnected
