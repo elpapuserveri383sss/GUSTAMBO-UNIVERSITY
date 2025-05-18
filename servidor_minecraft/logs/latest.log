@@ -1316,3 +1316,397 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 01:28:23.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop moved wrongly!
 [18May2025 01:28:32.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop moved wrongly!
 [18May2025 01:28:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> jorge mira el grupo AJJAJA
+[18May2025 01:30:33.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> jorge
+[18May2025 01:30:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> les mato o no mira el grupo XD
+[18May2025 01:30:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> AHORA VEO
+[18May2025 01:31:24.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattemci[/10.243.17.151:58892] logged in with entity id 30591 at (-2490.514759257545, 75.0, 1025.363736005721)
+[18May2025 01:31:24.021] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Cattemci
+[18May2025 01:31:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci joined the game
+[18May2025 01:31:24.043] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
+[18May2025 01:31:31.081] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cattemci (18)
+[18May2025 01:31:31.082] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cattemci
+[18May2025 01:31:41.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18May2025 01:31:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco es que en mi casa no sale ningun bicho ahora pq estos pendejos estan aca
+[18May2025 01:31:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Monsters Level 20]
+[18May2025 01:31:58.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[18May2025 01:31:59.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> a la mierda
+[18May2025 01:32:06.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[18May2025 01:32:07.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[18May2025 01:32:07.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2) successfully connected to voice chat
+[18May2025 01:32:18.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18May2025 01:32:20.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> Stand ready for my arrival, Worm
+[18May2025 01:32:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ! I am so lonely
+[18May2025 01:32:37.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18May2025 01:32:42.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> All the other Viltrumites are scared of me
+[18May2025 01:32:51.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> No one talks to me
+[18May2025 01:32:53.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> gustavo tenes q venir
+[18May2025 01:32:54.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18May2025 01:32:59.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> They think I am unstable
+[18May2025 01:33:04.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> a ver la acumulacion de downs que hay aca
+[18May2025 01:33:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco veni
+[18May2025 01:33:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ni q fuera cesma amor
+[18May2025 01:33:39.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> beef gratis
+[18May2025 01:33:59.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> atento
+[18May2025 01:34:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XDDDDDDD
+[18May2025 01:34:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> JAJAJAJAJAJAJAJA
+[18May2025 01:34:11.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[18May2025 01:34:16.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> I am so lonely. All the other Viltrumites are scared of me. Noone talks to me. Noone wants to be my friend-- They think I am unstable. They send me from planet to planet committing atrocities in their name. And as I get better at it, they fear me more and
+[18May2025 01:34:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> DIDDY PARTY
+[18May2025 01:34:27.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> I am so lonely. All the other Viltrumites are scared of me. Noone talks to me. Noone wants to be my friend-- They think I am unstable. They send me from planet to planet committing atrocities in their name. And as I get better at it, they fear me more and
+[18May2025 01:34:37.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> les mato o no
+[18May2025 01:34:46.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> dejales que construyan su imperio
+[18May2025 01:34:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde
+[18May2025 01:34:53.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> dame un arma buena
+[18May2025 01:34:59.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> me lo merezco por entregar mi palo de wukong
+[18May2025 01:35:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> yo creo q causan lag loco XD
+[18May2025 01:35:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> Callate
+[18May2025 01:35:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> AAAAAAAAAA
+[18May2025 01:35:40.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was slain by Mini Golem
+[18May2025 01:35:40.184] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[18May2025 01:35:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> KJAJKA
+[18May2025 01:35:58.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 9.956583035624135,1.9375,-0.07108989445714542
+[18May2025 01:36:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> mmm amor te vi
+[18May2025 01:36:48.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no puedo robar cosas
+[18May2025 01:36:49.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> sin llave
+[18May2025 01:36:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde
+[18May2025 01:36:50.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was smitten by DrPingaFloja
+[18May2025 01:36:50.697] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[18May2025 01:36:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD perdon
+[18May2025 01:36:58.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> volvi al spawn sin darme cuenta
+[18May2025 01:37:00.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> perdí casi todos mis niveles por tu culpa
+[18May2025 01:37:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> pasen cords
+[18May2025 01:37:07.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> callate we
+[18May2025 01:37:13.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ola
+[18May2025 01:37:14.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te vi con un hacha robandome
+[18May2025 01:37:17.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> queriendo orbar
+[18May2025 01:37:18.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was doomed to fall by Zombie
+[18May2025 01:37:18.047] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[18May2025 01:37:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> robar
+[18May2025 01:37:21.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> XDD
+[18May2025 01:37:21.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no puedo robarte nada
+[18May2025 01:37:23.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ya te dije
+[18May2025 01:37:25.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> los golems me hicieron un gang bang loco
+[18May2025 01:37:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> diddy party
+[18May2025 01:37:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> veni jorge
+[18May2025 01:37:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no solo me robas mi arma de wukong por envidioso
+[18May2025 01:37:39.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> me matas encima XD
+[18May2025 01:37:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no era envidia esa cosa estaba rota
+[18May2025 01:37:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has reached the goal [Chain Death]
+[18May2025 01:37:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was pricked to death
+[18May2025 01:37:54.940] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[18May2025 01:38:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> entonces dame algo que valga la pena
+[18May2025 01:38:07.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> por que ta queres algoo
+[18May2025 01:38:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> pude haberme callado, y no decirn ada
+[18May2025 01:38:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> y bueno pendejo
+[18May2025 01:38:21.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> cords
+[18May2025 01:38:31.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was smitten by DrPingaFloja
+[18May2025 01:38:31.451] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[18May2025 01:38:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> puta de meirda
+[18May2025 01:38:40.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> coooooooooords
+[18May2025 01:38:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> seguime
+[18May2025 01:39:16.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> q es esoo
+[18May2025 01:39:19.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> mira
+[18May2025 01:39:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> enderman
+[18May2025 01:39:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> jorge deja de ser estúpido
+[18May2025 01:39:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nde SI MATALO
+[18May2025 01:39:46.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Quickly Applied]
+[18May2025 01:39:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> gracias
+[18May2025 01:39:52.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> hacia donde es
+[18May2025 01:39:58.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> hacia donde miro
+[18May2025 01:40:00.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> vengan
+[18May2025 01:40:03.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player edf78940-69a6-31b7-8857-836fc89061df timed out
+[18May2025 01:40:03.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucasdepapel
+[18May2025 01:40:03.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucasdepapel
+[18May2025 01:40:12.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ola
+[18May2025 01:40:16.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> siga asi mi compa
+[18May2025 01:40:22.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ya me quitaste ko todo XD
+[18May2025 01:40:24.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> qué más querés
+[18May2025 01:40:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> -1842 824 149
+[18May2025 01:40:29.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player edf78940-69a6-31b7-8857-836fc89061df
+[18May2025 01:40:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> venir
+[18May2025 01:40:30.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player edf78940-69a6-31b7-8857-836fc89061df
+[18May2025 01:40:30.218] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df) successfully connected to voice chat
+[18May2025 01:40:41.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> esto no se va a quedar así dr pinga floja
+[18May2025 01:40:45.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> te metiste con el enemigo equivocado
+[18May2025 01:40:50.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> muy mal
+[18May2025 01:41:01.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te voy a mandar a las coords 999999999 como sigas asi
+[18May2025 01:41:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> solo duplicas tu sentencia
+[18May2025 01:41:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> perra
+[18May2025 01:41:25.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> callate abusador te voy a dar ban ip
+[18May2025 01:42:19.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [People Are Strange]
+[18May2025 01:42:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> WATAFAKKKKKKKK
+[18May2025 01:42:34.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> un grillo gigante
+[18May2025 01:42:40.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> veni joreg
+[18May2025 01:42:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> yendo
+[18May2025 01:43:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> en la san putaa esta
+[18May2025 01:43:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> te llevo en brum brum si krs
+[18May2025 01:44:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> nunca me harán quererte elías román
+[18May2025 01:44:27.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Super Creeps]
+[18May2025 01:44:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que
+[18May2025 01:45:00.023] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[18May2025 01:45:29.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player edf78940-69a6-31b7-8857-836fc89061df timed out
+[18May2025 01:45:29.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucasdepapel
+[18May2025 01:45:29.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucasdepapel
+[18May2025 01:45:45.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucasdepapel lost connection: Disconnected
+[18May2025 01:45:45.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel left the game
+[18May2025 01:45:45.359] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucasdepapel
+[18May2025 01:45:45.433] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 01:46:40.422] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:46:40.422] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:46:40.423] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 01:49:17.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was doomed to fall by entity.creature_compendium.unseen_hand
+[18May2025 01:49:17.499] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[18May2025 01:49:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> wtf
+[18May2025 01:49:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ????
+[18May2025 01:49:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> LO MATE
+[18May2025 01:49:36.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> UN BOSS
+[18May2025 01:49:37.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que te mato jorge XD?
+[18May2025 01:49:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> nii idea
+[18May2025 01:49:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> no salia su mdo
+[18May2025 01:49:53.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5172, l='ServerLevel[world]', x=-1758.50, y=159.50, z=799.81] died, message: 'Weaponsmith was pricked to death'
+[18May2025 01:49:54.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> era un coso morado con muchas manos
+[18May2025 01:49:55.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> y un ojo
+[18May2025 01:49:57.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/44832, l='ServerLevel[world]', x=-1418.16, y=154.00, z=925.76] died, message: 'Golem Healer was slain by Zombie'
+[18May2025 01:49:57.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/44832, l='ServerLevel[world]', x=-1418.16, y=154.00, z=925.76] died: Golem Healer was slain by Zombie
+[18May2025 01:51:12.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> nde cuidado con esa luna
+[18May2025 01:51:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> POR
+[18May2025 01:51:18.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> por?
+[18May2025 01:51:19.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> trae cosas del nether al overworld
+[18May2025 01:51:28.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Ice Bucket Challenge]
+[18May2025 01:51:30.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> y si dormimos mejor XD
+[18May2025 01:51:39.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ZZZZZZZZZZZZZZZZZZZ
+[18May2025 01:51:40.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ZZZZZZZZZZZ
+[18May2025 01:51:41.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> xzzzzzzzz
+[18May2025 01:51:43.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[18May2025 01:51:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te va a salir fero ghast
+[18May2025 01:51:43.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/44926, l='ServerLevel[world]', x=-1503.61, y=163.00, z=921.70] died, message: 'Golem Healer was slain by Zoglin'
+[18May2025 01:51:43.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/44926, l='ServerLevel[world]', x=-1503.61, y=163.00, z=921.70] died: Golem Healer was slain by Zoglin
+[18May2025 01:51:44.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzzzzzzzzzzzzz
+[18May2025 01:51:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> zzzzzzzzzzzzzzz
+[18May2025 01:51:50.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop lost connection: Disconnected
+[18May2025 01:51:50.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop left the game
+[18May2025 01:51:50.444] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zitroop
+[18May2025 01:51:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> zzz
+[18May2025 01:52:14.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroop[/10.243.185.211:51015] logged in with entity id 47395 at (-1523.699999988079, 166.0, 884.3000000119209)
+[18May2025 01:52:14.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop joined the game
+[18May2025 01:52:14.757] [Server thread/INFO] [Jade/]: Syncing config to Zitroop (dee26597-0936-3b25-99f7-4453ba964591)
+[18May2025 01:52:14.972] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zitroop (18)
+[18May2025 01:52:14.972] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zitroop
+[18May2025 01:52:18.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dee26597-0936-3b25-99f7-4453ba964591
+[18May2025 01:52:19.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dee26597-0936-3b25-99f7-4453ba964591
+[18May2025 01:52:19.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zitroop (dee26597-0936-3b25-99f7-4453ba964591) successfully connected to voice chat
+[18May2025 01:52:30.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> tengo q crusar una montaña no jida
+[18May2025 01:52:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci walked into a cactus whilst trying to escape Ice Dragon
+[18May2025 01:52:33.044] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[18May2025 01:53:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> elias
+[18May2025 01:53:02.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> dame una perla
+[18May2025 01:53:10.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no tengo
+[18May2025 01:53:37.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucasdepapel[/10.243.19.25:62502] logged in with entity id 48934 at (930.248146881505, 119.0, 113.89487042747656)
+[18May2025 01:53:37.758] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player lucasdepapel
+[18May2025 01:53:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel joined the game
+[18May2025 01:53:37.781] [Server thread/INFO] [Jade/]: Syncing config to lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df)
+[18May2025 01:53:49.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> lucas
+[18May2025 01:53:50.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucasdepapel (18)
+[18May2025 01:53:50.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucasdepapel
+[18May2025 01:53:52.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> dime que tienes una perla
+[18May2025 01:54:26.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player edf78940-69a6-31b7-8857-836fc89061df
+[18May2025 01:54:27.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player edf78940-69a6-31b7-8857-836fc89061df
+[18May2025 01:54:27.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df) successfully connected to voice chat
+[18May2025 01:55:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> se me peto la pc
+[18May2025 01:55:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> configura los graficos y esas cosas loco
+[18May2025 01:55:40.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> activa o desactiva el vysnc para ver con cual te va mejor
+[18May2025 01:55:43.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Hot Stuff]
+[18May2025 01:55:44.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2996ms or 59 ticks behind
+[18May2025 01:55:50.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> y luego dicen que mi pc es una papota
+[18May2025 01:56:02.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18May2025 01:56:07.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> es luego
+[18May2025 01:56:10.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 7.881025682617064,2.1708129081422953,6.550005468055133
+[18May2025 01:56:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> eso no se discute
+[18May2025 01:56:16.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! 3.631231629593458,-0.7967356006686828,9.469902894826873
+[18May2025 01:56:16.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> lleguè
+[18May2025 01:56:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD
+[18May2025 01:56:33.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18May2025 01:56:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que putas
+[18May2025 01:56:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> mira esto
+[18May2025 01:56:59.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> a la mieerda
+[18May2025 01:57:06.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> waos
+[18May2025 01:57:07.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> deja
+[18May2025 01:57:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> cuidado que te lo sacan por op
+[18May2025 01:57:10.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> me vas a matar
+[18May2025 01:57:12.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> y yo puedo eleegir
+[18May2025 01:57:21.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> perdon
+[18May2025 01:57:25.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18May2025 01:57:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> es una loquita
+[18May2025 01:57:28.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> dame comida puta
+[18May2025 01:57:34.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tu prepucio se descontrola
+[18May2025 01:57:42.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18May2025 01:57:43.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> mira
+[18May2025 01:57:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> hijo de perra
+[18May2025 01:57:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te voy a dormir enseguida
+[18May2025 01:58:02.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> CAUNTO QUITA?
+[18May2025 01:58:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> poco
+[18May2025 01:58:19.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> nde mira
+[18May2025 01:58:22.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> q puta
+[18May2025 01:58:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> creo q no te deja hasta q te mata
+[18May2025 01:58:27.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tranquiliza
+[18May2025 01:58:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> XD
+[18May2025 01:58:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> cama
+[18May2025 01:58:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ns busca
+[18May2025 01:58:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> esta es mi casa ahora
+[18May2025 01:58:46.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[18May2025 01:58:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> yo ko vivo aca mira
+[18May2025 01:58:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> esta mejor
+[18May2025 01:59:00.404] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:59:00.405] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:59:00.468] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 01:59:05.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18May2025 01:59:13.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> esta en proceso de construccion
+[18May2025 01:59:15.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tengo un trava
+[18May2025 01:59:23.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[18May2025 01:59:26.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> antes eran dos pero se revelo y le tuve que dormir
+[18May2025 01:59:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> JAAAAAAAAAAAAAAAAAAAAAAJA
+[18May2025 01:59:30.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Ice Bucket Challenge]
+[18May2025 01:59:42.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18May2025 01:59:45.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> TOMA
+[18May2025 01:59:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> una ofrenda
+[18May2025 01:59:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco mira
+[18May2025 01:59:59.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[18May2025 02:00:03.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> q jue eso
+[18May2025 02:00:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> VETEALAVERGA
+[18May2025 02:00:06.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> elytras
+[18May2025 02:00:18.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3559ms or 71 ticks behind
+[18May2025 02:00:41.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[18May2025 02:00:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> oh no hermano
+[18May2025 02:01:10.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18May2025 02:01:19.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 02:01:23.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 02:01:24.693] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 02:01:27.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> llega hastra ahi?
+[18May2025 02:01:27.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 02:01:30.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
+[18May2025 02:01:31.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> mi prepucio
+[18May2025 02:01:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> si
+[18May2025 02:01:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> TENGO FIMOSIS
+[18May2025 02:02:31.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> realmente
+[18May2025 02:02:47.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> necesito mas dragones
+[18May2025 02:02:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci walked into a cactus whilst trying to escape Ice Dragon
+[18May2025 02:02:49.480] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[18May2025 02:02:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ya no tengo armadura XD
+[18May2025 02:03:01.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> AHgustavo sabe donde hay
+[18May2025 02:03:29.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> me saca medio corazon esa mielda XD
+[18May2025 02:03:33.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> andate por qu voy a sacr mi prepucio
+[18May2025 02:03:34.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player edf78940-69a6-31b7-8857-836fc89061df timed out
+[18May2025 02:03:34.584] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucasdepapel
+[18May2025 02:03:34.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucasdepapel
+[18May2025 02:03:38.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no profavor no
+[18May2025 02:03:39.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucasdepapel lost connection: Timed out
+[18May2025 02:03:39.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel left the game
+[18May2025 02:03:39.019] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucasdepapel
+[18May2025 02:04:07.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que
+[18May2025 02:04:27.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Called Your Bluff]
+[18May2025 02:04:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> alaverga
+[18May2025 02:04:34.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> si saac mucha vida
+[18May2025 02:04:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> abusador
+[18May2025 02:07:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Sweet Dreams]
+[18May2025 02:09:59.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> elias
+[18May2025 02:10:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> q
+[18May2025 02:10:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> tenes piedra?
+[18May2025 02:10:07.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no XD
+[18May2025 02:13:26.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[18May2025 02:13:26.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[18May2025 02:13:26.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:13:32.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:13:33.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:13:33.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 02:13:42.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@66d48074[id=<null>,name=lucasdepapel,properties={},legacy=false] (/10.243.19.25:62548): Took too long to log in
+[18May2025 02:13:42.226] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66d48074[id=<null>,name=lucasdepapel,properties={},legacy=false] (/10.243.19.25:62548) lost connection: Took too long to log in
+[18May2025 02:13:42.273] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 02:17:45.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[18May2025 02:17:45.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[18May2025 02:17:45.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:17:53.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[18May2025 02:17:53.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[18May2025 02:17:53.126] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[18May2025 02:18:02.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci fell from a high place
+[18May2025 02:18:02.684] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[18May2025 02:18:16.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:54002] logged in with entity id 101325 at (-1833.2289369693508, 148.9375, 805.5021646882859)
+[18May2025 02:18:16.049] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[18May2025 02:18:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[18May2025 02:18:16.159] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[18May2025 02:18:19.123] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[18May2025 02:18:19.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:18:43.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:18:45.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:18:45.396] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 02:21:08.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[18May2025 02:21:08.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[18May2025 02:21:08.370] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:21:13.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:21:14.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:21:14.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 02:21:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> como se oculta la armadura?
+[18May2025 02:21:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> v
+[18May2025 02:21:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> waos
+[18May2025 02:21:54.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> q verga
+[18May2025 02:21:55.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> elias
+[18May2025 02:22:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> veni mira esto xdd
+[18May2025 02:22:09.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> hay una pepita de hierro pegada a mi puerta
+[18May2025 02:22:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> y se mueve
+[18May2025 02:22:14.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> cuando la cierro o abro
+[18May2025 02:22:18.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> si ya vi eso
+[18May2025 02:22:20.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no se que es XD
+[18May2025 02:22:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> q es eso loco
+[18May2025 02:22:36.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> es un timbre?
+[18May2025 02:22:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> algo asi?
+[18May2025 02:22:46.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ns
+[18May2025 02:23:01.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[18May2025 02:23:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[18May2025 02:23:01.624] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[18May2025 02:23:28.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:54256] logged in with entity id 104833 at (-1832.933199888467, 148.9375, 805.5369972072534)
+[18May2025 02:23:28.447] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[18May2025 02:23:28.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[18May2025 02:23:28.527] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[18May2025 02:23:31.975] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[18May2025 02:23:31.976] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:23:49.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:23:50.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:23:50.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 02:26:11.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[18May2025 02:26:11.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[18May2025 02:26:11.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:26:27.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:26:28.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 02:26:28.011] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 02:27:54.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1ef08085[id=<null>,name=lucasdepapel,properties={},legacy=false] (/10.243.19.25:62595): Took too long to log in
+[18May2025 02:27:54.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ef08085[id=<null>,name=lucasdepapel,properties={},legacy=false] (/10.243.19.25:62595) lost connection: Took too long to log in
+[18May2025 02:27:54.526] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 02:28:01.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> zz
+[18May2025 02:28:39.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Sneak 100]
+[18May2025 02:28:51.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[18May2025 02:28:51.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[18May2025 02:28:51.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 02:28:59.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[18May2025 02:28:59.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[18May2025 02:28:59.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[18May2025 02:29:36.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by Tongbi, the Sculptor
+[18May2025 02:29:36.081] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[18May2025 02:30:38.028] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[18May2025 02:30:45.388] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 02:30:45.388] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 02:30:45.388] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 02:31:06.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop lost connection: Disconnected
+[18May2025 02:31:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop left the game
+[18May2025 02:31:06.028] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zitroop
+[18May2025 02:31:59.825] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 02:31:59.826] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 02:31:59.826] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 02:31:59.826] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 02:31:59.826] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 02:32:08.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Monsters Level 20]
+[18May2025 02:32:24.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> esto no me gusta
+[18May2025 02:33:15.362] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[18May2025 02:33:15.362] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[18May2025 02:33:25.620] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[18May2025 02:33:25.620] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[18May2025 02:41:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci fell from a high place
+[18May2025 02:41:25.680] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
