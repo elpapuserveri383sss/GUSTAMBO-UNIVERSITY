@@ -2443,3 +2443,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 17:49:46.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [18May2025 17:49:46.696] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [18May2025 17:49:46.796] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18May2025 18:10:57.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattemci[/10.243.17.151:52825] logged in with entity id 35955 at (-1798.300000011921, 159.00133597911216, 829.1798747898164)
+[18May2025 18:10:57.544] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Cattemci
+[18May2025 18:10:57.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci joined the game
+[18May2025 18:10:57.570] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
+[18May2025 18:11:00.282] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cattemci (18)
+[18May2025 18:11:00.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cattemci
+[18May2025 18:11:15.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[18May2025 18:11:16.637] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[18May2025 18:11:16.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2) successfully connected to voice chat
+[18May2025 18:11:50.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> jesse
+[18May2025 18:12:02.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> JESSE
+[18May2025 18:13:12.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/36113, l='ServerLevel[world]', x=-1607.50, y=196.39, z=687.30] died, message: 'Golem Healer was frozen to death by Cattemci'
+[18May2025 18:13:12.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/36113, l='ServerLevel[world]', x=-1607.50, y=196.39, z=687.30] died: Golem Healer was frozen to death by Cattemci
+[18May2025 18:13:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> estás jugando?
+[18May2025 18:14:53.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has reached the goal [Quaint Scribe]
+[18May2025 18:16:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Tools of the Trade]
+[18May2025 18:21:03.428] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 68], discarding
+[18May2025 18:21:03.430] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 68], discarding
+[18May2025 18:21:03.437] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 68], discarding
+[18May2025 18:21:03.585] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[18May2025 18:21:36.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> DrPingaFloja dormite puta
+[18May2025 18:25:17.030] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 68], discarding
+[18May2025 18:25:17.032] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 68], discarding
+[18May2025 18:25:17.034] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 68], discarding
+[18May2025 18:25:17.776] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-50, 69], discarding
+[18May2025 18:25:17.778] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 69], discarding
+[18May2025 18:25:17.779] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
+[18May2025 18:30:01.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> gay
+[18May2025 18:30:11.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> estoy re lejos
+[18May2025 18:30:14.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> en el mar
