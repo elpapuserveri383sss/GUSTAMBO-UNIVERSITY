@@ -1790,6 +1790,7 @@
       "minecraft:cold_ocean": "2025-05-16 20:33:20 +0000",
       "minecraft:forest": "2025-05-17 23:21:18 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 17:08:48 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-18 17:38:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-16 21:52:22 +0000",
       "minecraft:frozen_peaks": "2025-05-14 22:34:36 +0000",
       "minecraft:savanna": "2025-05-14 22:07:08 +0000",
@@ -2981,6 +2982,7 @@
     "criteria": {
       "cooked_beef": "2025-05-18 01:00:44 +0000",
       "beef": "2025-05-18 00:55:53 +0000",
+      "baked_potato": "2025-05-18 17:39:15 +0000",
       "porkchop": "2025-05-18 00:57:27 +0000",
       "mutton": "2025-05-16 23:54:28 +0000",
       "mushroom_stew": "2025-05-18 17:14:00 +0000",
@@ -2992,6 +2994,7 @@
       "golden_apple": "2025-05-18 02:05:32 +0000",
       "rotten_flesh": "2025-05-15 01:37:44 +0000",
       "beetroot": "2025-05-18 01:57:23 +0000",
+      "cod": "2025-05-18 17:34:25 +0000",
       "cooked_salmon": "2025-05-18 17:27:59 +0000"
     },
     "done": false
@@ -8027,6 +8030,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-05-18 17:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-18 17:05:29 +0000"
@@ -8036,6 +8045,12 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-05-18 17:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-18 17:32:16 +0000"
     },
     "done": true
   },
@@ -8051,9 +8066,21 @@
     },
     "done": true
   },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-05-18 17:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-18 17:32:16 +0000"
     },
     "done": true
   },
@@ -8093,6 +8120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-18 17:37:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-18 17:14:40 +0000"
@@ -8102,6 +8135,18 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-05-18 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-18 17:43:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 17:43:15 +0000"
     },
     "done": true
   },
@@ -8123,9 +8168,21 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-18 17:38:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-05-18 17:09:27 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-05-18 17:37:40 +0000"
     },
     "done": true
   },
@@ -8138,6 +8195,24 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-18 17:19:40 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-05-18 17:37:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-05-18 17:43:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-18 17:37:40 +0000"
     },
     "done": true
   },
@@ -8159,6 +8234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-18 17:32:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-05-18 17:28:12 +0000"
@@ -8168,6 +8249,18 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-18 17:32:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-18 17:36:52 +0000"
     },
     "done": true
   },
