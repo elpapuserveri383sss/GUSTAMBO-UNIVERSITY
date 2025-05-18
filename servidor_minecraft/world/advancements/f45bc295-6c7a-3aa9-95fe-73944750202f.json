@@ -1791,6 +1791,7 @@
       "minecraft:forest": "2025-05-17 23:21:18 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 17:08:48 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-18 17:38:48 +0000",
+      "minecraft:ocean": "2025-05-18 18:37:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-16 21:52:22 +0000",
       "minecraft:frozen_peaks": "2025-05-14 22:34:36 +0000",
       "minecraft:savanna": "2025-05-14 22:07:08 +0000",
@@ -1856,6 +1857,7 @@
       "minecraft:witch": "2025-05-18 17:23:29 +0000",
       "minecraft:silverfish": "2025-05-18 17:12:37 +0000",
       "minecraft:zombie": "2025-05-15 00:58:33 +0000",
+      "minecraft:drowned": "2025-05-18 18:33:34 +0000",
       "minecraft:zombie_villager": "2025-05-16 21:12:31 +0000"
     },
     "done": false
@@ -1903,6 +1905,7 @@
       "biomeswevegone:weeping_witch_forest": "2025-05-16 22:19:52 +0000",
       "biomeswevegone:prairie": "2025-05-14 22:30:00 +0000",
       "biomeswevegone:rose_fields": "2025-05-16 21:13:16 +0000",
+      "biomeswevegone:basalt_barrera": "2025-05-18 18:38:01 +0000",
       "biomeswevegone:aspen_boreal": "2025-05-16 22:45:18 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-16 21:11:06 +0000",
       "biomeswevegone:allium_shrubland": "2025-05-16 20:11:38 +0000",
@@ -8072,6 +8075,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-18 18:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
@@ -8171,6 +8180,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-05-18 17:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-18 18:35:20 +0000"
     },
     "done": true
   },
