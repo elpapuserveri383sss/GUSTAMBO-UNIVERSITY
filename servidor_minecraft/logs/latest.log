@@ -1098,3 +1098,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 23:00:23.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b24b122c-232e-3dc2-bf48-11421a53c3a2
 [18May2025 23:00:23.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2) successfully connected to voice chat
 [18May2025 23:09:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Enchanter]
+[18May2025 23:44:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Monsters Level 30]
+[18May2025 23:45:19.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1956, y=57, z=2807} BlockPos{x=-1956, y=55, z=2808}

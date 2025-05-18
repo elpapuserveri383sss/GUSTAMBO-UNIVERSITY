@@ -9651,3 +9651,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 23:16:54.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 23:21:54.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 23:21:54.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:26:54.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:26:54.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:29:11.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[18May2025 23:29:11.531] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_1 is being run through DFU (hash 985899e2288bc2b508ff9f162132a73a871743a7292d01956caf83ae28a42a05), this will cause launch time delays
+[18May2025 23:29:12.213] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_5 is being run through DFU (hash be25f921f584ac17c83ef1a3c36e6e08368a1951360d6b1125b2b0c7385b8a91), this will cause launch time delays
+[18May2025 23:29:12.246] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_0 is being run through DFU (hash 20db716f6211d77d5be87ff21ad502567a6c67c8d662727ac815c2b4c18fa56e), this will cause launch time delays
+[18May2025 23:29:12.270] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_2 is being run through DFU (hash bae434150fce6797e534f44d9aee0f628dc24a682ce51374441a36cc938501cb), this will cause launch time delays
+[18May2025 23:29:12.306] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_4 is being run through DFU (hash 817d9471606c1727771428e1d9ce1625714cf91b2b68a47a8fbab5a9314dbec2), this will cause launch time delays
+[18May2025 23:29:12.338] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:pirate_junk/pirate_junk_spawner_3 is being run through DFU (hash db6e72d73f1b4da4c3396969598d09cfbf7216725bb111785dbb5cf17a793a29), this will cause launch time delays
+[18May2025 23:29:14.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[18May2025 23:29:14.806] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[18May2025 23:29:14.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[18May2025 23:29:14.844] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[18May2025 23:29:14.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[18May2025 23:29:14.863] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[18May2025 23:31:54.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:31:54.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:32:47.201] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[18May2025 23:32:47.248] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[18May2025 23:32:48.599] [Worker-Main-16/DEBUG] [ModernFix/]: Using cached upgraded version of medievalry:undeadknightspawnerchamber
+[18May2025 23:36:54.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:36:54.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:41:54.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 23:41:54.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 23:44:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Monsters Level 30]
+[18May2025 23:45:19.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1956, y=57, z=2807} BlockPos{x=-1956, y=55, z=2808}
