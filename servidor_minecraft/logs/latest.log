@@ -1085,3 +1085,177 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 00:48:53.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player edf78940-69a6-31b7-8857-836fc89061df
 [18May2025 00:48:54.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player edf78940-69a6-31b7-8857-836fc89061df
 [18May2025 00:48:54.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df) successfully connected to voice chat
+[18May2025 00:49:21.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-499, y=160, z=-421}
+[18May2025 00:49:25.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-499, y=160, z=-421}
+[18May2025 00:49:29.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-499, y=158, z=-422}
+[18May2025 00:49:29.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-499, y=158, z=-422}
+[18May2025 00:49:29.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-497, y=159, z=-421}
+[18May2025 00:49:29.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-497, y=159, z=-421}
+[18May2025 00:49:30.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-497, y=159, z=-421}
+[18May2025 00:49:30.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-497, y=159, z=-421}
+[18May2025 00:49:30.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-497, y=159, z=-421}
+[18May2025 00:49:30.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-494, y=160, z=-423}
+[18May2025 00:49:31.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-494, y=160, z=-423}
+[18May2025 00:49:31.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-494, y=160, z=-423}
+[18May2025 00:49:31.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-494, y=160, z=-423}
+[18May2025 00:49:31.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-492, y=160, z=-423}
+[18May2025 00:49:31.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-491, y=161, z=-423}
+[18May2025 00:49:31.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-491, y=161, z=-422}
+[18May2025 00:49:42.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:49214] logged in with entity id 1573 at (-2303.2706527001615, 121.17675927506424, 761.883490068525)
+[18May2025 00:49:42.391] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[18May2025 00:49:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[18May2025 00:49:42.443] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[18May2025 00:49:42.879] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Starbuncle['Starbuncle'/1631, l='ServerLevel[world]', x=-2271.15, y=121.00, z=768.50]
+[18May2025 00:49:42.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/1632, l='ServerLevel[world]', x=-2336.91, y=121.00, z=714.42]
+[18May2025 00:49:42.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/1634, l='ServerLevel[world]', x=-2330.51, y=119.94, z=718.54]
+[18May2025 00:49:42.881] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Farmer'/1635, l='ServerLevel[world]', x=-2332.53, y=120.94, z=718.35]
+[18May2025 00:49:44.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[18May2025 00:49:44.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 00:49:56.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 00:49:57.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 00:49:57.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 00:50:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Pic-A-Nic Basket?]
+[18May2025 00:50:11.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f45bc295-6c7a-3aa9-95fe-73944750202f timed out
+[18May2025 00:50:11.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DrPingaFloja
+[18May2025 00:50:11.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[18May2025 00:50:14.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 00:50:16.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[18May2025 00:50:16.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[18May2025 00:50:23.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que mierda
+[18May2025 00:50:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> broo abandona el server mejor
+[18May2025 00:50:32.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> server en decadencia
+[18May2025 00:50:45.969] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:51:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Monster Hunter]
+[18May2025 00:51:09.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [A Strange Grave Dust]
+[18May2025 00:51:28.685] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:51:32.081] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:52:50.263] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5002b1a3[id=<null>,name=Zitroop,properties={},legacy=false] (/10.243.185.211:50398) lost connection: Disconnected
+[18May2025 00:52:57.461] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:53:00.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Stone Age]
+[18May2025 00:53:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> AYUDAAAAAAAAAAAAA
+[18May2025 00:53:40.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/10.243.95.12:52016] logged in with entity id 3348 at (-431.3339958918516, 188.0, -288.2914328810928)
+[18May2025 00:53:41.000] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Mtaep
+[18May2025 00:53:41.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[18May2025 00:53:41.080] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[18May2025 00:53:42.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mtaep (18)
+[18May2025 00:53:42.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mtaep
+[18May2025 00:53:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel was blown up by Creeper
+[18May2025 00:53:44.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Your First Grave]
+[18May2025 00:53:44.038] [Server thread/INFO] [tombstone/]: The player lucasdepapel has successfully been saved
+[18May2025 00:53:52.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[18May2025 00:53:53.843] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c42aba1a-dbbb-3485-bd79-6cc60ec3d64e
+[18May2025 00:53:53.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e) successfully connected to voice chat
+[18May2025 00:53:59.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> PUTAMADRE MATEO
+[18May2025 00:54:39.585] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-190, y=34, z=-185}
+[18May2025 00:54:39.586] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-190, y=34, z=-187}
+[18May2025 00:54:44.358] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:54:47.537] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 00:54:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> lucas
+[18May2025 00:55:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pequeña
+[18May2025 00:55:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no te hare nada
+[18May2025 00:55:28.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> veni
+[18May2025 00:55:32.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ven a mi
+[18May2025 00:55:33.739] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:55:35.566] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[18May2025 00:55:40.413] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9a47a62[id=<null>,name=Zitroop,properties={},legacy=false] (/10.243.185.211:50446) lost connection: Disconnected
+[18May2025 00:55:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> quieres?
+[18May2025 00:55:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> HOLA
+[18May2025 00:56:02.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> mira
+[18May2025 00:56:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Crops of the Wild]
+[18May2025 00:56:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> que agarras
+[18May2025 00:56:27.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> COMIDA
+[18May2025 00:56:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no tengo comida
+[18May2025 00:56:38.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> toma esto
+[18May2025 00:56:41.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> te va a servir
+[18May2025 00:56:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> nde {
+[18May2025 00:56:45.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> unna consejo
+[18May2025 00:56:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> QUE?
+[18May2025 00:56:50.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> mira bien todo
+[18May2025 00:56:55.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> todos los crafteos
+[18May2025 00:56:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> xd
+[18May2025 00:56:57.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> mateo encerio en nether esta tan jodido
+[18May2025 00:56:58.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ?
+[18May2025 00:57:09.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> tenes madera?
+[18May2025 00:57:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> si vos le apretas la u a un coso te va a mostrar sus crafteos
+[18May2025 00:57:26.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> madera?
+[18May2025 00:57:27.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> no tengo hierro
+[18May2025 00:57:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> madera tampoco
+[18May2025 00:57:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> xd{
+[18May2025 00:57:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> VENGAN A FAROLITO
+[18May2025 00:58:27.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> quedate{
+[18May2025 00:58:29.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> madera
+[18May2025 00:58:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> que mierda
+[18May2025 00:58:46.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> LUCAS
+[18May2025 00:58:51.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroop[/10.243.185.211:50502] logged in with entity id 5712 at (-509.5, 155.0, -434.5)
+[18May2025 00:58:51.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop joined the game
+[18May2025 00:58:51.168] [Server thread/INFO] [Jade/]: Syncing config to Zitroop (dee26597-0936-3b25-99f7-4453ba964591)
+[18May2025 00:58:51.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Herios Helian Mod]
+[18May2025 00:58:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Ice and Fire]
+[18May2025 00:58:52.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zitroop (18)
+[18May2025 00:58:52.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zitroop
+[18May2025 00:59:02.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dee26597-0936-3b25-99f7-4453ba964591
+[18May2025 00:59:03.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dee26597-0936-3b25-99f7-4453ba964591
+[18May2025 00:59:03.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zitroop (dee26597-0936-3b25-99f7-4453ba964591) successfully connected to voice chat
+[18May2025 00:59:10.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop lost connection: Disconnected
+[18May2025 00:59:10.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop left the game
+[18May2025 00:59:10.778] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zitroop
+[18May2025 00:59:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> que bobo lucas
+[18May2025 00:59:11.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Knowledge of Death]
+[18May2025 00:59:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Cover Me with Diamonds]
+[18May2025 00:59:11.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Funeral Theft]
+[18May2025 00:59:14.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> te di ko carbon
+[18May2025 00:59:17.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> bueno da igual
+[18May2025 00:59:24.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> te di 64 de oro
+[18May2025 00:59:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> aprovechalo
+[18May2025 00:59:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> mira bien todo
+[18May2025 00:59:33.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ya te dejo
+[18May2025 00:59:43.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroop[/10.243.185.211:50523] logged in with entity id 6197 at (-508.1671070745999, 155.0, -434.35936555831546)
+[18May2025 00:59:43.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop joined the game
+[18May2025 00:59:43.906] [Server thread/INFO] [Jade/]: Syncing config to Zitroop (dee26597-0936-3b25-99f7-4453ba964591)
+[18May2025 00:59:44.130] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zitroop (18)
+[18May2025 00:59:44.130] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zitroop
+[18May2025 00:59:49.078] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player dee26597-0936-3b25-99f7-4453ba964591
+[18May2025 00:59:50.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player dee26597-0936-3b25-99f7-4453ba964591
+[18May2025 00:59:50.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zitroop (dee26597-0936-3b25-99f7-4453ba964591) successfully connected to voice chat
+[18May2025 01:01:24.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> ola´fs
+[18May2025 01:02:03.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Getting an Upgrade]
+[18May2025 01:02:07.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Stone Age]
+[18May2025 01:02:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Getting an Upgrade]
+[18May2025 01:02:48.848] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=150, y=-21, z=-254}
+[18May2025 01:02:59.633] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=205, y=27, z=-225}
+[18May2025 01:02:59.633] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=204, y=27, z=-225}
+[18May2025 01:02:59.633] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=202, y=-28, z=-238}
+[18May2025 01:03:20.601] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=220, y=-29, z=-236}
+[18May2025 01:03:20.940] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=206, y=-36, z=-302}
+[18May2025 01:03:20.940] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=206, y=-36, z=-303}
+[18May2025 01:03:30.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop was slain by Tiger
+[18May2025 01:03:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Your First Grave]
+[18May2025 01:03:30.467] [Server thread/INFO] [tombstone/]: The player Zitroop has successfully been saved
+[18May2025 01:03:40.979] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:03:41.029] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 01:03:45.002] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:04:03.921] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=323, y=37, z=-208}
+[18May2025 01:04:04.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18May2025 01:04:10.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has reached the goal [Here They Come]
+[18May2025 01:04:36.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Monster Hunter]
+[18May2025 01:04:42.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[18May2025 01:04:48.725] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=435, y=10, z=87}
+[18May2025 01:04:48.726] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=435, y=10, z=86}
+[18May2025 01:05:00.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3034ms or 60 ticks behind
+[18May2025 01:05:10.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Acquire Hardware]
+[18May2025 01:05:14.548] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:invisiclogger
+[18May2025 01:05:25.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Isn't It Iron Pick]
+[18May2025 01:06:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Suit Up]
+[18May2025 01:06:21.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/11789, l='ServerLevel[world]', x=-2548.72, y=62.58, z=689.91]
+[18May2025 01:06:31.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/11970, l='ServerLevel[world]', x=-2581.16, y=62.59, z=700.96]
+[18May2025 01:08:55.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18May2025 01:08:56.156] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 01:08:56.157] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 01:08:56.157] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 01:09:11.097] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:09:13.646] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:thedungeon
+[18May2025 01:09:13.646] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 01:09:13.646] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id undead_revamp2:neocrorines
+[18May2025 01:09:15.213] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id undead_revamp2:basaltecheste
+[18May2025 01:09:15.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2606, y=-41, z=490}
+[18May2025 01:09:16.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6139ms or 122 ticks behind
