@@ -1779,6 +1779,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-14 23:03:37 +0000",
       "minecraft:taiga": "2025-05-18 01:03:45 +0000",
+      "minecraft:deep_ocean": "2025-05-18 18:57:39 +0000",
       "minecraft:cherry_grove": "2025-05-14 22:32:58 +0000",
       "minecraft:sunflower_plains": "2025-05-14 22:31:34 +0000",
       "minecraft:savanna_plateau": "2025-05-14 22:21:32 +0000",
@@ -8112,6 +8113,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-18 18:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2025-05-18 17:32:16 +0000"
@@ -8121,6 +8128,12 @@
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-05-18 17:14:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-05-18 18:51:43 +0000"
     },
     "done": true
   },
@@ -8208,6 +8221,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-18 18:51:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-05-18 17:10:16 +0000"
@@ -8223,6 +8242,12 @@
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-05-18 17:38:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-18 18:51:43 +0000"
     },
     "done": true
   },
@@ -8253,6 +8278,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-05-18 17:19:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-18 18:51:43 +0000"
     },
     "done": true
   },
@@ -8319,6 +8350,18 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-18 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-18 18:55:13 +0000"
     },
     "done": true
   },

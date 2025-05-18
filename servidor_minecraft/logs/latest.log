@@ -3148,3 +3148,81 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 18:51:02.720] [Worker-Main-100/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [18May2025 18:51:02.938] [Worker-Main-100/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [18May2025 18:51:02.940] [Worker-Main-100/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:52:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> elias
+[18May2025 18:52:39.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> tu casa sigue siedno farolito=
+[18May2025 18:52:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> si
+[18May2025 18:52:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> muy bien
+[18May2025 18:54:42.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3152, y=38, z=-682} but found not block entity block Block{minecraft:water}[level=1] at location
+[18May2025 18:54:42.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-3152, y=38, z=-682}
+[18May2025 18:54:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Amateur Archaeologist]
+[18May2025 18:55:41.389] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3139, y=38, z=-681} but found not block entity block Block{minecraft:water}[level=2] at location
+[18May2025 18:55:41.389] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-3139, y=38, z=-681}
+[18May2025 18:55:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> que meirda
+[18May2025 18:55:49.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tengo un collar con el que puedo caminar en el agua XD
+[18May2025 18:56:00.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> y tengo unas botas que me dan respiracion
+[18May2025 18:56:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco ayer ustedes no vieron pero jrge tiene una mascara y puede sacar a su prepucio
+[18May2025 18:57:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> vengan a vivir cerca de mi casa
+[18May2025 18:57:10.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> jorge vive ahi
+[18May2025 18:57:17.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> loco yo vivo a 2000 bloques
+[18May2025 18:57:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> de tu casa
+[18May2025 18:57:26.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD
+[18May2025 18:57:37.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> podria poner un waypoint
+[18May2025 18:57:38.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[18May2025 18:57:57.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[18May2025 18:58:08.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> mi granja que es los pollos hermanos está a 3000m
+[18May2025 18:58:15.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[18May2025 18:58:18.604] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[18May2025 18:58:33.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[18May2025 18:58:40.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2912, y=-8, z=-890} but found not block entity block Block{minecraft:water}[level=8] at location
+[18May2025 18:58:40.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-2912, y=-8, z=-890}
+[18May2025 18:58:43.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2911, y=-20, z=-833} but found not block entity block Block{minecraft:water}[level=8] at location
+[18May2025 18:58:43.482] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-2911, y=-20, z=-833}
+[18May2025 18:58:47.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.5530621382581558,0.0,-10.273020860497581
+[18May2025 18:58:47.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.6128436080352913,0.0,-10.668456673718538
+[18May2025 18:58:47.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.672626135356495,0.0,-11.063899483724413
+[18May2025 18:58:47.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.732409614467997,0.0,-11.459348590836498
+[18May2025 18:58:47.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.792193950190267,0.0,-11.854803365344083
+[18May2025 18:58:47.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.851979056862092,0.0,-12.250263240507365
+[18May2025 18:58:47.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.911764857388789,0.0,-12.6457277062608
+[18May2025 18:58:47.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 1.9715512823850077,0.0,-13.04119630354512
+[18May2025 18:58:47.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.031338269403477,0.0,-13.43666861920724
+[18May2025 18:58:47.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.0911257622419726,0.0,-13.832144281409228
+[18May2025 18:58:47.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.150913710318491,0.0,-14.227622955497054
+[18May2025 18:58:47.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.2107020681091853,0.0,-14.623104340282111
+[18May2025 18:58:47.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.270490794642683,0.0,-15.018588164694506
+[18May2025 18:58:47.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.3302798530448854,0.0,-15.414074184771493
+[18May2025 18:58:47.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved too quickly! 2.390069210128786,0.0,-15.809562180946614
+[18May2025 18:58:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> nde gustavi
+[18May2025 18:58:50.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> q
+[18May2025 18:58:53.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> yo de verdad necesito pollo xd
+[18May2025 18:58:56.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> crudo
+[18May2025 18:58:57.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8412ms or 168 ticks behind
+[18May2025 18:59:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> tenes?
+[18May2025 18:59:06.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> no
+[18May2025 18:59:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> putamadre
+[18May2025 18:59:13.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> se llama los pollos hermanos pero aún no hay pollos
+[18May2025 18:59:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> solo vacas
+[18May2025 18:59:14.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[18May2025 18:59:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> pollos hermanos
+[18May2025 18:59:15.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3104, y=-2, z=-438} but found not block entity block Block{minecraft:water}[level=1] at location
+[18May2025 18:59:15.128] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-3104, y=-2, z=-438}
+[18May2025 18:59:28.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -1.7430699570600154,-10.101757832190593,-0.012898041517473757
+[18May2025 18:59:28.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci moved too quickly! 8.039079487304207,0.6058154455115954,5.950827910840189
+[18May2025 18:59:28.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> mejor pollas hermanas
+[18May2025 18:59:30.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja fell from a high place
+[18May2025 18:59:30.691] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[18May2025 18:59:40.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10615ms or 212 ticks behind
+[18May2025 18:59:46.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> se asusto por mi comentario y se tiro :vv
+[18May2025 18:59:46.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> cuántos niveles tienes
+[18May2025 18:59:51.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ahora 13
+[18May2025 18:59:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> mate 3 dragones
+[18May2025 19:00:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> hace rato nada tenia
+[18May2025 19:00:07.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> cómo encuentras dragones tan fácil wtf
+[18May2025 19:00:12.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> explorando
+[18May2025 19:00:20.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[18May2025 19:00:21.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> y mirando bien todo
+[18May2025 19:00:40.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci moved too quickly! 9.28662420180217,2.9999999999999716,2.6567464200936683
+[18May2025 19:00:42.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6223ms or 124 ticks behind
+[18May2025 19:00:45.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja was slain by Sea Serpent
+[18May2025 19:00:45.113] [Server thread/INFO] [tombstone/]: The player DrPingaFloja has successfully been saved
+[18May2025 19:00:45.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> vtlv el lag

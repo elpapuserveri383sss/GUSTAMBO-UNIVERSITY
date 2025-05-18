@@ -1814,6 +1814,7 @@
       "biomeswevegone:redwood_thicket": "2025-05-16 22:52:57 +0000",
       "biomeswevegone:sakura_grove": "2025-05-17 00:16:42 +0000",
       "biomeswevegone:temperate_grove": "2025-05-16 22:27:20 +0000",
+      "biomeswevegone:forgotten_forest": "2025-05-18 19:01:28 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-05-16 22:53:58 +0000",
       "biomeswevegone:red_rock_valley": "2025-05-16 20:32:58 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-05-14 23:53:30 +0000",
@@ -3667,6 +3668,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-15 01:59:34 +0000",
+      "minecraft:zoglin": "2025-05-18 18:52:06 +0000",
       "minecraft:ghast": "2025-05-18 18:47:33 +0000",
       "minecraft:spider": "2025-05-15 02:03:04 +0000",
       "minecraft:creeper": "2025-05-16 21:07:30 +0000",
@@ -7484,6 +7486,12 @@
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-05-18 02:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-18 18:52:21 +0000"
     },
     "done": true
   },
