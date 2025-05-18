@@ -6984,6 +6984,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-18 01:18:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_crate": {
     "criteria": {
       "has_log": "2025-05-18 01:07:26 +0000"
@@ -6996,6 +7002,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-18 01:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-18 01:08:45 +0000"
@@ -7005,6 +7017,12 @@
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-05-18 01:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-18 01:18:26 +0000"
     },
     "done": true
   },
@@ -7126,6 +7144,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 01:07:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-05-18 01:17:27 +0000"
     },
     "done": true
   },
@@ -7261,6 +7285,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-18 01:20:03 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/jungle": {
     "criteria": {
       "has_the_recipe": "2025-05-18 01:07:26 +0000"
@@ -7309,6 +7339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-18 01:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-18 01:07:38 +0000"
@@ -7318,6 +7354,12 @@
   "cfm:recipes/decorations/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-18 01:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-18 01:16:38 +0000"
     },
     "done": true
   },
@@ -7357,6 +7399,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-18 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-18 01:19:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_chair": {
     "criteria": {
       "has_log": "2025-05-18 01:07:26 +0000"
@@ -7366,6 +7420,12 @@
   "cfm:recipes/decorations/stripped_oak_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 01:07:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-18 01:20:03 +0000"
     },
     "done": true
   },
@@ -7393,9 +7453,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-18 01:18:26 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-18 01:07:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-18 01:18:26 +0000"
     },
     "done": true
   },
@@ -7561,6 +7633,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-18 01:20:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_chair": {
     "criteria": {
       "has_planks": "2025-05-18 01:07:26 +0000"
@@ -7582,6 +7660,12 @@
   "iceandfire:recipes/combat/tide_green_chestplate": {
     "criteria": {
       "has_item": "2025-05-18 01:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-18 01:16:38 +0000"
     },
     "done": true
   },

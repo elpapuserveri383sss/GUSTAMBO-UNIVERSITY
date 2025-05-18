@@ -11948,3 +11948,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 01:17:29.254] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_mountain_tower_loot
 [18May2025 01:17:45.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/17486, l='ServerLevel[world]', x=-11.62, y=191.00, z=77.95] died, message: 'Fletcher was slain by Zombie'
 [18May2025 01:19:44.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Acquire Hardware]
+[18May2025 01:20:03.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has reached the goal [Quaint Scribe]
+[18May2025 01:20:24.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Suit Up]
+[18May2025 01:20:28.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 01:20:28.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 01:20:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Isn't It Iron Pick]
+[18May2025 01:20:53.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [What a Deal!]
+[18May2025 01:20:59.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Magery]
+[18May2025 01:21:31.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18May2025 01:21:51.852] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18May2025 01:21:54.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18May2025 01:21:57.308] [Worker-Main-24/DEBUG] [ModernFix/]: Structure dungeons_arise:lighthouse/lighthouse_part_1 is being run through DFU (hash f33348679c61f085ea796174eb5756e668b6d051c9721b1d9090d04667a0f4f4), this will cause launch time delays
+[18May2025 01:21:57.365] [Worker-Main-24/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_2 is being run through DFU (hash fef74d5a67f077b093772e564c05a16e782b5be427b6ff15de14e17ef33dfa47), this will cause launch time delays
+[18May2025 01:23:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Splintering II]
+[18May2025 01:23:51.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Diamonds!]
+[18May2025 01:24:11.834] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18May2025 01:24:31.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-229, y=200, z=-607} BlockPos{x=-228, y=200, z=-608}
+[18May2025 01:24:44.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco tengo elytras
+[18May2025 01:25:00.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> o sea son del mod de magia
+[18May2025 01:25:03.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Called Your Bluff]
+[18May2025 01:25:08.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> y dura un tiempo nomas
+[18May2025 01:25:30.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 01:25:30.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 01:25:33.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> yo ahora voy a pelear con un mono gigante
+[18May2025 01:25:38.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD
+[18May2025 01:25:56.709] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/5171, l='ServerLevel[world]', x=-1852.48, y=145.00, z=789.89] died, message: 'Weaponsmith was smitten by DrPingaFloja'
+[18May2025 01:25:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Neighborhood Brawl]
+[18May2025 01:26:59.158] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [4ed2dccf-ba9f-4824-b9d9-38790d99a5c1]
+[18May2025 01:27:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> QUE VETGA
+[18May2025 01:27:22.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> EL MONO GIGANTE ESTA PELEANDO CON UN DRAGON
+[18May2025 01:27:32.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco
+[18May2025 01:27:38.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no me van a creer
+[18May2025 01:27:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> voy a mandar al grupo no puede ser
+[18May2025 01:27:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> lo mato
+[18May2025 01:27:55.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> LO MATO
+[18May2025 01:28:23.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop moved wrongly!
+[18May2025 01:28:32.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroop moved wrongly!
+[18May2025 01:28:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> jorge mira el grupo AJJAJA
