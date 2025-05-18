@@ -9656,3 +9656,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 17:15:25.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 17:17:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has reached the goal [Bone Crusher]
 [18May2025 17:19:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Shard of Reality]
+[18May2025 17:20:25.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:20:25.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 17:25:25.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:25:25.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 17:30:25.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:30:25.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
