@@ -9581,3 +9581,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 16:58:23.972] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of DrPingaFloja to connected: {disabled=false, disconnected=false, uuid=f45bc295-6c7a-3aa9-95fe-73944750202f, name=DrPingaFloja, group=null}
 [18May2025 16:58:23.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
 [18May2025 16:58:24.151] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DrPingaFloja: {disabled=true, disconnected=false, uuid=f45bc295-6c7a-3aa9-95fe-73944750202f, name=DrPingaFloja, group=null}
+[18May2025 17:00:25.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:00:25.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 17:03:26.104] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@31c691d4 for service interface com.blamejared.clumps.platform.IEventHelper
+[18May2025 17:03:26.105] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@24808d5f for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18May2025 17:04:55.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[18May2025 17:04:55.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:camp
+[18May2025 17:04:55.571] [Worker-Main-44/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18May2025 17:04:55.571] [Worker-Main-44/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18May2025 17:04:55.571] [Worker-Main-44/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18May2025 17:04:55.572] [Worker-Main-44/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18May2025 17:04:55.573] [Worker-Main-44/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[18May2025 17:04:55.573] [Worker-Main-44/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[18May2025 17:04:55.765] [Worker-Main-43/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18May2025 17:04:55.766] [Worker-Main-43/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18May2025 17:04:55.766] [Worker-Main-43/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18May2025 17:04:55.767] [Worker-Main-43/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[18May2025 17:04:55.902] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[18May2025 17:04:55.953] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[18May2025 17:05:02.322] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of medievalry:armorstorageroomfixe
+[18May2025 17:05:04.882] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[18May2025 17:05:05.282] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0 is being run through DFU (hash 61d29d193d1139b67226abf029f5b776a5efae41eb5aceaf490bcc9e2a907837), this will cause launch time delays
+[18May2025 17:05:05.495] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0 is being run through DFU (hash 1f9b876cb636d613be0e47da963f52244d3223d6db1ab032fe8efbe5e26e5d7c), this will cause launch time delays
+[18May2025 17:05:05.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[18May2025 17:05:05.605] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0 is being run through DFU (hash c7f790a5d8bf7e5b0a7c913e354345227e83176db166f9633a906fa71b6c29cf), this will cause launch time delays
+[18May2025 17:05:05.627] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0 is being run through DFU (hash 8c2947b654d62d07451c5c64374cca3d8feb055d215ee4be279641cb0c09731f), this will cause launch time delays
+[18May2025 17:05:05.672] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1 is being run through DFU (hash 7c7633cb61709997f1b3b280ac0b87da6fce4c7cb1a7b7fbcd21ccc3d0376469), this will cause launch time delays
+[18May2025 17:05:12.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[18May2025 17:05:12.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:stone
+[18May2025 17:05:13.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:chest
+[18May2025 17:05:25.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:05:25.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 17:05:33.775] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18May2025 17:05:53.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Ice Bucket Challenge]
+[18May2025 17:08:27.733] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_1
+[18May2025 17:08:28.078] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_6
+[18May2025 17:08:30.724] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_5
+[18May2025 17:08:30.786] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_4
+[18May2025 17:08:30.874] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_3
+[18May2025 17:08:34.121] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[18May2025 17:08:37.646] [Worker-Main-43/DEBUG] [ModernFix/]: Structure aquamirae:tower is being run through DFU (hash 162e47110c363b3c9d04969a80abb02fe09fd4bafa0c01bd051b22828d2cba01), this will cause launch time delays
+[18May2025 17:08:41.572] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[18May2025 17:08:45.673] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[18May2025 17:08:54.759] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[18May2025 17:08:57.192] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of medievalry:undeadknightspawnerchamber
+[18May2025 17:08:58.207] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
+[18May2025 17:09:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Tie me to the Mast]
