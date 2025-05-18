@@ -3489,7 +3489,8 @@
       "sweet_berries": "2025-05-17 00:12:42 +0000",
       "apple": "2025-05-17 00:13:31 +0000",
       "bread": "2025-05-16 20:33:08 +0000",
-      "golden_apple": "2025-05-16 21:10:36 +0000"
+      "golden_apple": "2025-05-16 21:10:36 +0000",
+      "rotten_flesh": "2025-05-18 22:55:23 +0000"
     },
     "done": false
   },
@@ -3677,9 +3678,11 @@
       "minecraft:creeper": "2025-05-16 21:07:30 +0000",
       "minecraft:witch": "2025-05-17 21:41:13 +0000",
       "minecraft:wither_skeleton": "2025-05-18 18:48:07 +0000",
+      "minecraft:husk": "2025-05-18 23:16:33 +0000",
       "minecraft:cave_spider": "2025-05-18 18:34:14 +0000",
       "minecraft:enderman": "2025-05-18 02:31:34 +0000",
       "minecraft:zombie": "2025-05-15 02:13:48 +0000",
+      "minecraft:drowned": "2025-05-18 23:18:35 +0000",
       "minecraft:zombie_villager": "2025-05-16 20:42:17 +0000"
     },
     "done": false
@@ -4137,6 +4140,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2025-05-18 19:27:25 +0000",
+      "tomato": "2025-05-18 22:56:55 +0000",
+      "sugar_cane": "2025-05-18 23:01:22 +0000",
       "potato": "2025-05-18 19:23:39 +0000",
       "wheat": "2025-05-16 20:19:35 +0000"
     },
@@ -8240,6 +8245,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-05-18 22:57:21 +0000",
       "minecraft:chicken": "2025-05-18 20:04:07 +0000"
     },
     "done": false
@@ -8343,6 +8349,66 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-18 22:48:12 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:corn": "2025-05-18 22:56:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-18 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-18 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-18 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-18 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-18 23:13:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-18 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-18 23:09:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-18 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 23:02:04 +0000"
     },
     "done": true
   },

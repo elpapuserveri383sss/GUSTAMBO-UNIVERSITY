@@ -1085,3 +1085,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 22:54:08.182] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-49, 69], discarding
 [18May2025 22:54:08.244] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'undead_revamp2:terraindrip_3' in chunk [-48, 69], discarding
 [18May2025 22:54:48.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] BOMBOCLATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+[18May2025 23:00:00.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci lost connection: Disconnected
+[18May2025 23:00:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci left the game
+[18May2025 23:00:00.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cattemci
+[18May2025 23:00:14.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattemci[/10.243.17.151:54385] logged in with entity id 7085 at (-1789.6462520806858, 117.0, 2528.2370974999917)
+[18May2025 23:00:14.548] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Cattemci
+[18May2025 23:00:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci joined the game
+[18May2025 23:00:14.575] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
+[18May2025 23:00:15.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cattemci (18)
+[18May2025 23:00:15.482] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cattemci
+[18May2025 23:00:22.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[18May2025 23:00:23.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b24b122c-232e-3dc2-bf48-11421a53c3a2
+[18May2025 23:00:23.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2) successfully connected to voice chat
+[18May2025 23:09:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Enchanter]
