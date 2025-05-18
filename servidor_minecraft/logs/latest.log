@@ -1100,3 +1100,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 23:09:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Enchanter]
 [18May2025 23:44:41.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci has made the advancement [Monsters Level 30]
 [18May2025 23:45:19.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1956, y=57, z=2807} BlockPos{x=-1956, y=55, z=2808}
+[18May2025 23:56:50.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:55065] logged in with entity id 19743 at (-3103.25993917164, 64.0, -1024.824086897858)
+[18May2025 23:56:50.961] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[18May2025 23:56:51.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[18May2025 23:56:51.031] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[18May2025 23:56:54.604] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[18May2025 23:56:54.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja

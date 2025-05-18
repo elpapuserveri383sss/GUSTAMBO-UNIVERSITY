@@ -8358,6 +8358,12 @@
     },
     "done": false
   },
+  "knize1007:day30": {
+    "criteria": {
+      "play25days": "2025-05-18 23:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-18 23:11:54 +0000"
