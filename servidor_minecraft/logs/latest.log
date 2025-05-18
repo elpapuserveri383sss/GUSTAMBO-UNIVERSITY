@@ -1085,3 +1085,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 16:27:02.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci lost connection: Timed out
 [18May2025 16:27:02.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci left the game
 [18May2025 16:27:02.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cattemci
+[18May2025 16:47:19.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hay alguien?
