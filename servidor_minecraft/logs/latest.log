@@ -1097,3 +1097,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 16:58:23.972] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
 [18May2025 17:05:53.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Ice Bucket Challenge]
 [18May2025 17:09:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Tie me to the Mast]
+[18May2025 17:10:12.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2903, y=28, z=909} but found not block entity block Block{minecraft:water}[level=1] at location
+[18May2025 17:10:12.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-2903, y=28, z=909}
+[18May2025 17:10:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Smoke On The Water]
+[18May2025 17:10:43.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved wrongly! 0.28355155874942284
+[18May2025 17:10:43.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved wrongly! 0.29826330676883117
+[18May2025 17:17:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has reached the goal [Bone Crusher]
+[18May2025 17:19:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Shard of Reality]

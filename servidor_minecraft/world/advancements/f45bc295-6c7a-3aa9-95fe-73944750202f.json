@@ -1747,9 +1747,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-05-18 17:15:25 +0000",
       "log_spam_fixer": "2025-05-14 22:05:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -1789,6 +1790,7 @@
       "minecraft:stony_shore": "2025-05-18 01:08:49 +0000",
       "minecraft:cold_ocean": "2025-05-16 20:33:20 +0000",
       "minecraft:forest": "2025-05-17 23:21:18 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-18 17:08:48 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-16 21:52:22 +0000",
       "minecraft:frozen_peaks": "2025-05-14 22:34:36 +0000",
       "minecraft:savanna": "2025-05-14 22:07:08 +0000",
@@ -1851,6 +1853,7 @@
       "minecraft:vindicator": "2025-05-14 22:29:20 +0000",
       "minecraft:spider": "2025-05-16 21:12:37 +0000",
       "minecraft:creeper": "2025-05-16 21:13:25 +0000",
+      "minecraft:silverfish": "2025-05-18 17:12:37 +0000",
       "minecraft:zombie": "2025-05-15 00:58:33 +0000",
       "minecraft:zombie_villager": "2025-05-16 21:12:31 +0000"
     },
@@ -2980,6 +2983,7 @@
       "beef": "2025-05-18 00:55:53 +0000",
       "porkchop": "2025-05-18 00:57:27 +0000",
       "mutton": "2025-05-16 23:54:28 +0000",
+      "mushroom_stew": "2025-05-18 17:14:00 +0000",
       "cooked_mutton": "2025-05-18 02:14:21 +0000",
       "sweet_berries": "2025-05-16 23:39:22 +0000",
       "apple": "2025-05-18 01:57:38 +0000",
@@ -8019,6 +8023,102 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-05-18 02:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-18 17:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-18 17:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-18 17:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 17:14:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-18 17:14:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-18 17:10:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-18 17:09:27 +0000"
+    },
+    "done": true
+  },
+  "obsidianequipment:recipes/misc/obsidian": {
+    "criteria": {
+      "has_ingredient": "2025-05-18 17:05:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-18 17:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-18 17:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 17:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 17:05:53 +0000"
     },
     "done": true
   },

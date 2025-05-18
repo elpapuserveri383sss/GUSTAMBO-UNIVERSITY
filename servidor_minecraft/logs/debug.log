@@ -9627,3 +9627,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 42
 [18May2025 17:08:57.192] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of medievalry:undeadknightspawnerchamber
 [18May2025 17:08:58.207] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of biomeswevegone:fossils/rugged_2
 [18May2025 17:09:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Tie me to the Mast]
+[18May2025 17:10:05.869] [Worker-Main-44/DEBUG] [ModernFix/]: Structure aquamirae:lore/shelter/tunnel_bottom is being run through DFU (hash 273ea1b8e1e279d1a3382e85336be98763b841af696be8a05438cfed9eaa0f84), this will cause launch time delays
+[18May2025 17:10:05.968] [Worker-Main-44/DEBUG] [ModernFix/]: Structure aquamirae:lore/shelter/main is being run through DFU (hash 76f68c1dc2eee5f4745bf7f9a3c1b49a6c2718f43d5d42ffd3a54f3980116615), this will cause launch time delays
+[18May2025 17:10:10.998] [Worker-Main-60/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[18May2025 17:10:12.526] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2903, y=28, z=909} but found not block entity block Block{minecraft:water}[level=1] at location
+[18May2025 17:10:12.527] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-2903, y=28, z=909}
+[18May2025 17:10:14.204] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[18May2025 17:10:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Smoke On The Water]
+[18May2025 17:10:25.956] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[18May2025 17:10:26.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:10:26.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 17:10:30.752] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[18May2025 17:10:30.766] [Worker-Main-59/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_1 is being run through DFU (hash 913910d11abfc7ad3e9531868744b448df70873462812ac72dd6513b0e1fdc53), this will cause launch time delays
+[18May2025 17:10:30.855] [Worker-Main-59/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_3 is being run through DFU (hash cf553c6995940c004d0f291ec51a963cd266f6655d2349b6776bde2367571d25), this will cause launch time delays
+[18May2025 17:10:30.864] [Worker-Main-59/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_0 is being run through DFU (hash b7bcef9131df02e1050ce7644962344a0e3bbb014899fc00f9025ff39794e406), this will cause launch time delays
+[18May2025 17:10:30.875] [Worker-Main-59/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_2 is being run through DFU (hash ff4bfac78d25751a7539a65bd7ae0117d736851526dce21d5ce0e8a92d583ad6), this will cause launch time delays
+[18May2025 17:10:30.898] [Worker-Main-59/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_spawner_4 is being run through DFU (hash 0154acbbf79001a01dec1eefd06db583f25995fecedd8ae0b404bc246b78e254), this will cause launch time delays
+[18May2025 17:10:40.321] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[18May2025 17:10:40.337] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[18May2025 17:10:40.356] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18May2025 17:10:40.373] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18May2025 17:10:40.396] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[18May2025 17:10:40.424] [Worker-Main-45/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18May2025 17:10:41.931] [Worker-Main-44/DEBUG] [ModernFix/]: Using cached upgraded version of medievalry:brokenabandonedtower
+[18May2025 17:10:43.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved wrongly! 0.28355155874942284
+[18May2025 17:10:43.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DrPingaFloja) moved wrongly! 0.29826330676883117
+[18May2025 17:15:25.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 17:15:25.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 17:17:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has reached the goal [Bone Crusher]
+[18May2025 17:19:40.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Shard of Reality]
