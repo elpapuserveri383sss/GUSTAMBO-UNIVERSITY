@@ -3667,9 +3667,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-15 01:59:34 +0000",
+      "minecraft:ghast": "2025-05-18 18:47:33 +0000",
       "minecraft:spider": "2025-05-15 02:03:04 +0000",
       "minecraft:creeper": "2025-05-16 21:07:30 +0000",
       "minecraft:witch": "2025-05-17 21:41:13 +0000",
+      "minecraft:wither_skeleton": "2025-05-18 18:48:07 +0000",
       "minecraft:cave_spider": "2025-05-18 18:34:14 +0000",
       "minecraft:enderman": "2025-05-18 02:31:34 +0000",
       "minecraft:zombie": "2025-05-15 02:13:48 +0000",
@@ -7491,6 +7493,18 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-05-18 18:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-18 18:49:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-05-18 18:14:53 +0000"
@@ -7512,6 +7526,12 @@
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-05-18 18:14:53 +0000"
+    },
+    "done": true
+  },
+  "knize1007:zoglin_spread": {
+    "criteria": {
+      "play25days": "2025-05-18 18:49:41 +0000"
     },
     "done": true
   },

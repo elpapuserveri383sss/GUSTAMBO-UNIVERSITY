@@ -1851,6 +1851,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-14 22:28:28 +0000",
       "minecraft:skeleton": "2025-05-15 01:35:56 +0000",
+      "minecraft:zoglin": "2025-05-18 18:49:37 +0000",
       "minecraft:vindicator": "2025-05-14 22:29:20 +0000",
       "minecraft:spider": "2025-05-16 21:12:37 +0000",
       "minecraft:creeper": "2025-05-16 21:13:25 +0000",
@@ -8063,15 +8064,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 18:48:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-05-18 17:21:38 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-18 18:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-18 18:46:59 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/stone_bow": {
     "criteria": {
       "has_bow": "2025-05-18 17:37:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-18 18:45:30 +0000"
     },
     "done": true
   },
@@ -8111,6 +8136,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-18 18:44:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-18 17:05:53 +0000"
@@ -8135,6 +8166,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-05-18 18:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-18 17:14:40 +0000"
@@ -8156,6 +8193,12 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-18 17:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 18:48:03 +0000"
     },
     "done": true
   },
@@ -8201,9 +8244,21 @@
     },
     "done": true
   },
+  "knize1007:zoglin_spread": {
+    "criteria": {
+      "play25days": "2025-05-18 18:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-05-18 17:19:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-18 18:45:30 +0000"
     },
     "done": true
   },
@@ -8288,6 +8343,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-18 17:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-18 18:45:30 +0000"
     },
     "done": true
   },
