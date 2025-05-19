@@ -3685,6 +3685,7 @@
       "minecraft:husk": "2025-05-18 23:16:33 +0000",
       "minecraft:cave_spider": "2025-05-18 18:34:14 +0000",
       "minecraft:enderman": "2025-05-18 02:31:34 +0000",
+      "minecraft:silverfish": "2025-05-19 00:45:23 +0000",
       "minecraft:zombie": "2025-05-15 02:13:48 +0000",
       "minecraft:drowned": "2025-05-18 23:18:35 +0000",
       "minecraft:zombie_villager": "2025-05-16 20:42:17 +0000"
@@ -4143,6 +4144,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-05-19 00:42:24 +0000",
       "onion": "2025-05-18 19:27:25 +0000",
       "tomato": "2025-05-18 22:56:55 +0000",
       "sugar_cane": "2025-05-18 23:01:22 +0000",
@@ -8419,6 +8421,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-18 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-19 00:45:12 +0000"
     },
     "done": true
   },

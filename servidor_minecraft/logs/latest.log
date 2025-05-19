@@ -81,3 +81,34 @@
 [19May2025 00:36:26.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> que
 [19May2025 00:36:27.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tienen nombre wtf
 [19May2025 00:36:32.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> me da miedoid
+[19May2025 00:37:31.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Diamonds!]
+[19May2025 00:37:43.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[19May2025 00:39:24.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Funeral Theft]
+[19May2025 00:40:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Best Friends Forever]
+[19May2025 00:42:09.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [The Parrots and the Bats]
+[19May2025 00:42:22.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroop has made the advancement [Mine? Mine? Mine?]
+[19May2025 00:43:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> duerman duerman duerman
+[19May2025 00:43:34.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> los ronquidos de los aldeanos son horribles
+[19May2025 00:43:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> duerma
+[19May2025 00:43:41.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> dormi elias
+[19May2025 00:43:44.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no puedo we
+[19May2025 00:43:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroop> sali
+[19May2025 00:43:53.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> gay
+[19May2025 00:43:54.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Disconnected
+[19May2025 00:43:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[19May2025 00:43:54.587] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DrPingaFloja
+[19May2025 00:44:42.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/10.243.123.226:57670] logged in with entity id 61636 at (-3185.4888434659324, -20.0, -1456.8668157642564)
+[19May2025 00:44:42.914] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player DrPingaFloja
+[19May2025 00:44:42.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[19May2025 00:44:42.941] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[19May2025 00:44:43.196] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DrPingaFloja (18)
+[19May2025 00:44:43.197] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DrPingaFloja
+[19May2025 00:44:49.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f45bc295-6c7a-3aa9-95fe-73944750202f
+[19May2025 00:44:50.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f45bc295-6c7a-3aa9-95fe-73944750202f
+[19May2025 00:44:50.181] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f) successfully connected to voice chat
+[19May2025 00:46:16.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2898, y=27, z=-1524} but found not block entity block Block{minecraft:water}[level=5] at location
+[19May2025 00:46:16.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=5] but failed at location BlockPos{x=-2898, y=27, z=-1524}
+[19May2025 00:46:53.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19May2025 00:46:58.942] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3052, y=38, z=-1730} but found not block entity block Block{minecraft:water}[level=2] at location
+[19May2025 00:46:58.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-3052, y=38, z=-1730}
+[19May2025 00:47:12.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4125ms or 82 ticks behind
