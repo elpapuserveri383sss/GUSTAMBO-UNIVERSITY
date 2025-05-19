@@ -1788,11 +1788,13 @@
       "minecraft:stony_peaks": "2025-05-15 01:42:33 +0000",
       "minecraft:dark_forest": "2025-05-16 23:19:30 +0000",
       "minecraft:river": "2025-05-16 21:24:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-19 00:13:50 +0000",
       "minecraft:stony_shore": "2025-05-16 21:28:53 +0000",
       "minecraft:grove": "2025-05-17 21:17:31 +0000",
       "minecraft:jagged_peaks": "2025-05-16 23:22:34 +0000",
       "minecraft:cold_ocean": "2025-05-17 21:04:23 +0000",
       "minecraft:forest": "2025-05-16 23:43:14 +0000",
+      "minecraft:lush_caves": "2025-05-19 00:28:02 +0000",
       "minecraft:ocean": "2025-05-16 22:02:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-16 23:25:20 +0000",
       "minecraft:frozen_peaks": "2025-05-17 00:09:40 +0000",
@@ -3484,10 +3486,12 @@
     "criteria": {
       "cooked_porkchop": "2025-05-16 21:04:47 +0000",
       "cooked_beef": "2025-05-15 01:42:20 +0000",
+      "porkchop": "2025-05-19 00:28:36 +0000",
       "mutton": "2025-05-17 21:05:09 +0000",
       "cooked_mutton": "2025-05-16 20:17:42 +0000",
       "sweet_berries": "2025-05-17 00:12:42 +0000",
       "apple": "2025-05-17 00:13:31 +0000",
+      "potato": "2025-05-19 00:00:19 +0000",
       "bread": "2025-05-16 20:33:08 +0000",
       "golden_apple": "2025-05-16 21:10:36 +0000",
       "rotten_flesh": "2025-05-18 22:55:23 +0000"
@@ -8358,9 +8362,33 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-19 00:00:48 +0000"
+    },
+    "done": true
+  },
   "knize1007:day30": {
     "criteria": {
       "play25days": "2025-05-18 23:44:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-19 00:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-05-19 00:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-19 00:25:33 +0000"
     },
     "done": true
   },
@@ -8370,15 +8398,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-05-19 00:29:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-05-18 23:13:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-19 00:00:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-18 23:11:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 00:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-19 00:00:48 +0000"
     },
     "done": true
   },
@@ -8400,6 +8452,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-19 00:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-18 23:09:33 +0000"
@@ -8412,9 +8470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-19 00:00:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_hoe": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:02:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-05-19 00:00:40 +0000"
     },
     "done": true
   },
